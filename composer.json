@@ -1,0 +1,15 @@
+{
+    "name": "ashur/roistat",
+    "authors": [
+        {
+            "name": "Ashur Umarov",
+            "email": "ashur.umarov@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    }
+}
